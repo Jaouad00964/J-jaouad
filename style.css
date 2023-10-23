@@ -2,7 +2,7 @@ body{
       margin: 0;
       padding: 0;
       text-align: center;
-      background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(img2.jpg);
+      background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(jawad.jpg);
       background-size: cover;
       background-position: center;
       font-family: sans-serif;
@@ -51,7 +51,7 @@ input
 
 form .submit
 {
-   background: #ff5722;
+   background: #0802A3;
    border-color: transparent;
    color: #fff;
    font-size: 20px;
